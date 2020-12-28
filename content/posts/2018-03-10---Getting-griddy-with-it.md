@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "CSS Grid"
 description: "7th March 2017. CSS Grid is released on Mozilla Firefox 52. The tech world is in awe of this new two-dimensional grid-based layout system. In this case however, it’s not strictly out with the old and in with the new."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/getting-griddy-with-it/image-5.png"
 ---
 
 7th March 2017. CSS Grid is released on Mozilla Firefox 52. The tech world is in awe of this new two-dimensional grid-based layout system.
