@@ -3,31 +3,35 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'The inner thoughts of Kieran Colew',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-108020452-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog Posts',
       path: '/'
+    },
+    {
+      label: 'Projects',
+      path: '/pages/projects'
     },
     {
       label: 'About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Get in touch',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Kieran Cole',
     photo: '/photo.png',
-    bio: 'FrontEnd Developer at Space48, Avid sports fan and gamer presenting a brain dump of my inner thoughts to the world',
+    bio: 'Front End Developer at Space48, avid sports fan and gamer presenting a brain dump of my inner thoughts to the world',
     contacts: {
       email: 'kcole1997@gmail.com',
       facebook: 'https://www.facebook.com/kcole1997/',
