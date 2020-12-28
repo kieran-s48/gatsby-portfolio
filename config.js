@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'The inner thoughts of Kieran Colew',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'The inner thoughts of Kieran Cole',
+  subtitle: 'Ramblings from Kieran, a Front End developer based out of Manchester',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -14,10 +14,6 @@ module.exports = {
     {
       label: 'Blog Posts',
       path: '/'
-    },
-    {
-      label: 'Projects',
-      path: '/pages/projects'
     },
     {
       label: 'About me',
