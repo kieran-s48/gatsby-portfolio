@@ -14,14 +14,6 @@ module.exports = {
     {
       label: 'Blog Posts',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Get in touch',
-      path: '/pages/contacts'
     }
   ],
   author: {
